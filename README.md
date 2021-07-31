@@ -1,4 +1,4 @@
-# Simple TODO Application with Express and MongoDb
+# Simple TODO Application with Express and MongoDB
 
 ---
 ## Requirements
